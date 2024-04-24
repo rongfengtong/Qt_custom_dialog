@@ -1,1 +1,1 @@
-# my_Qt_project
+# Qt_custom_dialog
