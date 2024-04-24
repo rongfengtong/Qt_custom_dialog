@@ -10,7 +10,7 @@
 <img src="https://github.com/rongfengtong/Qt_custom_dialog/assets/89334236/a74e7807-9e6c-43c8-988a-a141bd209a5a" width="400px">  
 
 
-完成
+完成（直接把我csdn的图片拿过来了）
 
 
 
